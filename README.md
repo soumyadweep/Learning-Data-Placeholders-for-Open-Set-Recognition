@@ -1,2 +1,2 @@
 # Learning-Data-Placeholders-for-Open-Set-Recognition
-Contributor: Aditya Panda , Soumyadweep Mondal
+Contributors: Aditya Panda , Soumyadweep Mondal
